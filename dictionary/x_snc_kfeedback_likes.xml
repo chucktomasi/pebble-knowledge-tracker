@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" label="Likes" max_length="40" name="x_snc_kfeedback_likes" type="collection">
+        <element choice="1" label="Response" max_length="40" name="response" type="choice">
+            <choice>
+                <element label="I love your videos" sequence="0" value="videos"/>
+                <element label="Nice bow tie" sequence="1" value="tie"/>
+            </choice>
+        </element>
+    </element>
+</database>

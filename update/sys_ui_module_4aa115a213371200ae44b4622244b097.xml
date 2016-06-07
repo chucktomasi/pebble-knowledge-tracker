@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Knowledge Feedback">c2a115a213371200ae44b4622244b097</application>
+        <filter/>
+        <name>Likes</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_kfeedback.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-06-06 23:57:25</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4aa115a213371200ae44b4622244b097</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Likes</sys_name>
+        <sys_package display_value="Knowledge Feedback" source="x_snc_kfeedback">f4a11dee13f31200ae44b4622244b056</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Knowledge Feedback">f4a11dee13f31200ae44b4622244b056</sys_scope>
+        <sys_update_name>sys_ui_module_4aa115a213371200ae44b4622244b097</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-06-06 23:57:25</sys_updated_on>
+        <table>x_snc_kfeedback_likes</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

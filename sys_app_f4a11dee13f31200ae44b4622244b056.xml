@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>log</enforce_license>
+        <js_level/>
+        <licensable>true</licensable>
+        <logo/>
+        <menu display_value="Knowledge Feedback">74a115a213371200ae44b4622244b07e</menu>
+        <name>Knowledge Feedback</name>
+        <private>false</private>
+        <restrict_runtime_access>false</restrict_runtime_access>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_snc_kfeedback</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_snc_kfeedback</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-06-06 23:57:20</sys_created_on>
+        <sys_id>f4a11dee13f31200ae44b4622244b056</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-06-06 23:57:20</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_snc_kfeedback.user" name="x_snc_kfeedback.user">30a115a213371200ae44b4622244b07f</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-06-06 23:57:22</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>dda115a213371200ae44b4622244b083</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_kfeedback_likes.x_snc_kfeedback.user</sys_name>
+        <sys_package display_value="Knowledge Feedback" source="x_snc_kfeedback">f4a11dee13f31200ae44b4622244b056</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Knowledge Feedback">f4a11dee13f31200ae44b4622244b056</sys_scope>
+        <sys_security_acl display_value="x_snc_kfeedback_likes">5da115a213371200ae44b4622244b082</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dda115a213371200ae44b4622244b083</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-06-06 23:57:22</sys_updated_on>
+        <sys_user_role display_value="x_snc_kfeedback.user" name="x_snc_kfeedback.user">30a115a213371200ae44b4622244b07f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
